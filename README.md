@@ -1,4 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=AbulCodes&color=blue)
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbulCodes&show_icons=true&theme=github_dark)
  # Hi 👋, I'm Abul Khayer
 
 ### 💻 Student Developer | 🐧 Linux Enthusiast | 🚀 Technology Explorer
