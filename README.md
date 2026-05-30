@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=AbulCodes&color=blue)
  # Hi 👋, I'm Abul Khayer
 
 ### 💻 Student Developer | 🐧 Linux Enthusiast | 🚀 Technology Explorer
